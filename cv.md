@@ -32,4 +32,12 @@ function solution(number){
     return (sum)
 }}
 ```
+## Education
++ Ural State Technical University, Physics and Technology Faculty
++ RS School Course «JavaScript/Front-end» (in progress)
+
+## Languages
++ Russian - native
++ English - A2
+
 
