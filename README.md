@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/Kingfisher-str/rsschool-cv
+https://Kingfisher-str.github.io/rsschool-cv/cv
