@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://Kingfisher-str.github.io/rsschool-cv/cv
+https://kingfisher-str.github.io/rsschool-cv/
